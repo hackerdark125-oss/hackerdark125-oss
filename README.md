@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![GitHub Metrics](metrics.svg)
 <!--
 **hackerdark125-oss/hackerdark125-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
