@@ -1,0 +1,79 @@
+<svg width="700" height="180" viewBox="0 0 700 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="nameGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff00cc">
+        <animate attributeName="stop-color"
+          values="#ff00cc;#00ffff;#ffee00;#ff0055;#ff00cc"
+          dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#3333ff">
+        <animate attributeName="stop-color"
+          values="#3333ff;#ff00cc;#00ffff;#ffee00;#3333ff"
+          dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <!-- ================= DOT MAN ================= -->
+  <g id="doter" transform="translate(70,110)">
+    <circle cx="0" cy="-38" r="10" fill="#00ffff"/>
+    <line x1="0" y1="-28" x2="0" y2="10" stroke="#00ffff" stroke-width="4" stroke-linecap="round"/>
+    <line x1="0" y1="10" x2="-12" y2="35" stroke="#00ffff" stroke-width="4" stroke-linecap="round"/>
+    <line x1="0" y1="10" x2="12" y2="35" stroke="#00ffff" stroke-width="4" stroke-linecap="round"/>
+    <line x1="0" y1="-15" x2="-14" y2="0" stroke="#00ffff" stroke-width="4" stroke-linecap="round"/>
+    <line x1="0" y1="-15" x2="16" y2="-2" stroke="#00ffff" stroke-width="4" stroke-linecap="round">
+      <animateTransform attributeName="transform"
+        type="rotate"
+        values="0 0 -15; -70 0 -15; 60 0 -15; 0 0 -15"
+        keyTimes="0; 0.25; 0.35; 1"
+        dur="3s"
+        repeatCount="indefinite"/>
+    </line>
+  </g>
+
+  <!-- ================= BALL ================= -->
+  <circle id="ball" cx="86" cy="97" r="7" fill="#ffee00">
+    <animate attributeName="cx"
+      values="86; 86; 620; 620"
+      keyTimes="0; 0.35; 0.6; 1"
+      dur="3s"
+      repeatCount="indefinite"/>
+    <animate attributeName="cy"
+      values="97; 90; 90; 90"
+      keyTimes="0; 0.35; 0.6; 1"
+      dur="3s"
+      repeatCount="indefinite"/>
+    <animate attributeName="opacity"
+      values="1;1;1;0;0"
+      keyTimes="0;0.35;0.58;0.6;1"
+      dur="3s"
+      repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="620" cy="90" r="4" fill="#ffffff" opacity="0">
+    <animate attributeName="r" values="4;4;30;4" keyTimes="0;0.59;0.63;1" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;0.8;0" keyTimes="0;0.59;0.63;1" dur="3s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- ================= NAME ================= -->
+  <g transform="translate(400,97)">
+    <text x="0" y="0" text-anchor="middle"
+          font-family="Verdana, Arial, sans-serif"
+          font-size="46" font-weight="bold"
+          fill="url(#nameGlow)"
+          opacity="0">
+      SHUBHAM PRASAD
+      <animate attributeName="opacity"
+        values="0;0;0;1;1;1"
+        keyTimes="0;0.58;0.62;0.66;0.95;1"
+        dur="3s"
+        repeatCount="indefinite"/>
+      <animateTransform attributeName="transform"
+        type="scale"
+        values="0.3,0.3; 0.3,0.3; 1.15,1.15; 1,1; 1,1"
+        keyTimes="0; 0.62; 0.7; 0.78; 1"
+        dur="3s"
+        repeatCount="indefinite"/>
+    </text>
+  </g>
+</svg>
