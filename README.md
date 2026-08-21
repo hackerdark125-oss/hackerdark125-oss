@@ -1,4 +1,7 @@
-## Hi there 👋
+![Shubham Prasad](banner.svg)
+# 👋 Hi there, I'm Shubham Prasad
+
+💻 BCA Student | 🤖 AI & Computer Vision | 🚀 Building & Learning
 ![GitHub Metrics](metrics.svg)
 <!--
 **hackerdark125-oss/hackerdark125-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
