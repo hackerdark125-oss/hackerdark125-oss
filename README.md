@@ -143,15 +143,6 @@ real-world backend applications.
 
 ---
 
-## 🎥 Project Videos
-
-| 🎬 Video 1 | 🎬 Video 2 | 🎬 Video 3 |
-|:---:|:---:|:---:|
-| [![Video 1](https://img.youtube.com/vi/3XFYh7Wn_pw/hqdefault.jpg)](https://youtu.be/3XFYh7Wn_pw) | [![Video 2](https://img.youtube.com/vi/vKwHn5iw3po/hqdefault.jpg)](https://youtu.be/vKwHn5iw3po) | [![Video 3](https://img.youtube.com/vi/F8lm-sZCdEY/hqdefault.jpg)](https://youtu.be/F8lm-sZCdEY) |
-| Project Demo | Project Demo | Project Demo |
-
----
-
 ## 📫 Connect With Me
 
 🐙 **GitHub:**  
