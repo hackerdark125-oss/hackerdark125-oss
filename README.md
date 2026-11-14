@@ -50,6 +50,19 @@ I'm still learning, so this profile is a record of projects, experiments and pro
 
 **Also exploring:** SQL, PostgreSQL, REST APIs, data analysis and embedded programming.
 
+## 🏆 Developer Achievements & Milestones
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PROJECT_BUILDER-6%2B_Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Project builder">
+  <img src="https://img.shields.io/badge/AI_%26_COMPUTER_VISION-Hands--On_Projects-2563EB?style=for-the-badge&logo=opencv&logoColor=white" alt="AI and computer vision projects">
+  <img src="https://img.shields.io/badge/BACKEND_DEVELOPMENT-APIs_%26_Tools-059669?style=for-the-badge&logo=fastapi&logoColor=white" alt="Backend development">
+  <img src="https://img.shields.io/badge/IoT_EXPLORER-ESP32_%26_Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="IoT explorer">
+  <img src="https://img.shields.io/badge/LEARNING_IN_PUBLIC-100_Days_of_Node.js-F7DF1E?style=for-the-badge&logo=nodedotjs&logoColor=black" alt="Learning in public">
+  <img src="https://img.shields.io/badge/OPEN_SOURCE-Active_GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile">
+</p>
+
+<sub>These are custom profile milestone badges based on the projects and learning journeys listed here—not official GitHub Achievements.</sub>
+
 ## 🚀 Selected Projects
 
 A few projects from my repositories. Open each one to see its code and documentation.
